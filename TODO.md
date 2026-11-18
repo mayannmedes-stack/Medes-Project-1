@@ -3,7 +3,7 @@
 ## Build a responsive single-page portfolio
 - [x] Create a polished responsive portfolio with clear navigation and desktop/mobile layouts.
 - [x] Add a photo-ready hero featuring May-Ann's name, student identity, hometown, and calls to action.
-- [x] Add About, Journey, Creative Life, and Contact sections using the approved clear-blue-and-yellow direction.
+- [x] Add About, Journey, Creative Life, and Contact sections using the approved clear-blue-and-purple direction.
 
 ## Personalize the content
 - [x] Include May-Ann's age, hometown, college, year level, and BSIT program.

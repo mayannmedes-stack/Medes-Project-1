@@ -1,6 +1,6 @@
 # May-Ann T. Medes — Personal Portfolio
 
-A responsive personal portfolio website for May-Ann T. Medes, built with semantic HTML and CSS. The visual direction uses clear blue, warm yellow accents, generous whitespace, and a friendly editorial layout.
+A responsive personal portfolio website for May-Ann T. Medes, built with semantic HTML and CSS. The visual direction uses clear blue, purple accents, generous whitespace, and a friendly editorial layout.
 
 ## Structure
 
